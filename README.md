@@ -15,23 +15,25 @@
 ### 🧑‍💻 About me
 
 - 🧪 **Chemical Engineer** and tech enthusiast
-- 💼 **Junior Developer** looking for new challenges
-- 🌐 Interested in **Web Development**, **Backend/APIs** and **Automation**
-- 📚 Always learning and evolving
+- 💼 **Junior Developer** focused on real-world products and clean architecture
+- 🌐 Interests: Web Development, Backend/APIs, Automation and Game Server Plugins
+- 📍 Porto Alegre, RS - Brazil
+- 📚 Always learning, building and shipping
+
 
 ---
 
-### 🚀 Technologies & Tools
+### 🛠️ Technologies & Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PaperMC-FFFFFF?style=for-the-badge&logo=papermc&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -39,22 +41,29 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bryanmzauza&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bryanmzauza&theme=tokyonight&hide_border=true&layout=compact" height="160" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bryanmzauza&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanmzauza&theme=tokyonight&hide_border=true&layout=compact" height="160" alt="Top Langs" />
 </div>
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured projects
 
 | Project | Description |
 |---------|-------------|
-| [📈 Quant-Trading-Engine](https://github.com/bryanmzauza/Quant-Trading-Engine) | Quantitative backtesting engine — from signal to evidence. 4 strategies, risk management, Monte Carlo, walk-forward & more |
-| [⚗️ Q-Engineering-Hub](https://github.com/bryanmzauza/Q-Engineering-Hub) | Chemical Engineering hub — unit converter, substance properties database, formulas & calculators |
-| [⚡ brmz](https://github.com/bryanmzauza/brmz) | JavaScript project |
+| [⚔️ Better-Clans](https://github.com/bryanmzauza/Better-Clans) | Clan plugin for Minecraft Paper focused on PvP, duels (/x1) and weekly Gladiator events (MVP in progress) |
+| [🗺️ Region-Master](https://github.com/bryanmzauza/Region-Master) | Land/region management plugin for Paper with granular flags, economy integration and marketplace |
+| [🛒 MarketHub](https://github.com/bryanmzauza/MarketHub) | Dynamic shop plugin inspired by Grand Exchange with supply-demand pricing for Java and Bedrock players |
+| [📈 Quant-Trading-Engine](https://github.com/bryanmzauza/Quant-Trading-Engine) | Quant backtesting engine with risk management, analytics and robustness tests (walk-forward + Monte Carlo) |
+| [⚗️ Q-Engineering-Hub](https://github.com/bryanmzauza/Q-Engineering-Hub) | Chemical Engineering toolkit with calculators, formulas and substance properties database |
+| [⛏️ craftsapiens-website](https://github.com/bryanmzauza/craftspiens-website) | Full web platform (Next.js + Prisma) for a gamified Minecraft educational ecosystem |
 
 ---
 
+### 🤝 Contact
+
+- GitHub: [@bryanmzauza](https://github.com/bryanmzauza)
+
 <p align="center">
-  <i>⭐ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </p>
