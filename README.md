@@ -1,69 +1,66 @@
-<h1 align="center">Hey! I'm Bryan Munaretto Zauza 👋</h1>
+# Bryan Munaretto Zauza
 
-<p align="center">
-  <a href="https://github.com/bryanmzauza">
-    <img src="https://img.shields.io/github/followers/bryanmzauza?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
+Chemical Engineer (UFRGS) and software developer based in Porto Alegre, Brazil.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+%26+Developer;Turning+ideas+into+code;Always+learning+something+new" alt="Typing SVG" />
-</p>
+I build practical software across games, web platforms, finance and engineering: Minecraft plugins and mods, a multiplayer game in Rust, business systems, AI agents, on-chain protocols and process simulations. I bring an engineer's approach to process, data and problem-solving into code.
 
----
+## Projects
 
-### 🧑‍💻 About me
+Projects marked *private* are closed-source or client work, listed here for reference.
 
-- 🧪 **Chemical Engineer** and tech enthusiast
-- 💼 **Junior Developer** focused on real-world products and clean architecture
-- 🌐 Interests: Web Development, Backend/APIs, Automation and Game Server Plugins
-- 📍 Porto Alegre, RS - Brazil
-- 📚 Always learning, building and shipping
+### Games & Minecraft
 
+- **[Messoria](https://github.com/bryanmzauza/Messoria)**: Cooperative 3D farming game with shapeable voxel terrain, seasons, a player-driven economy and dedicated servers. Built in Rust with Bevy. *Early development.*
+- **[Sapientia](https://github.com/bryanmzauza/Sapientia)**: Technology and automation plugin for Paper with energy networks, item and fluid logistics, processing chains and androids, with full Java and Bedrock parity.
+- **[KeyScript-Mod](https://github.com/bryanmzauza/KeyScript-Mod)**: Fabric mod for keybinds and scripting, with its own scripting language (KSL), an in-game editor, a debugger and hot reload.
+- **[Better-Clans](https://github.com/bryanmzauza/Better-Clans)**: Clan plugin focused on PvP, duels (`/x1`) and weekly Gladiator events. *MVP in progress.*
+- **[Region-Master](https://github.com/bryanmzauza/Region-Master)**: Land and region management with granular flags, economy integration and a built-in marketplace.
+- **[MarketHub](https://github.com/bryanmzauza/MarketHub)**: Dynamic shop inspired by the Grand Exchange, with supply-and-demand pricing for both Java and Bedrock players.
 
----
+### Web & Business Systems
 
-### 🛠️ Technologies & Tools
+- **[craftsapiens-website](https://github.com/bryanmzauza/craftspiens-website)**: Full web platform (Next.js + Prisma) for a gamified Minecraft educational ecosystem.
+- **Industrial ERP ecosystem** *(private)*: Five integrated systems for a manufacturer (public site, ERP, shop-floor MES, sales rep portal and e-commerce) on a NestJS + Next.js monorepo.
+- **Bakery pricing system** *(private)*: Product costing and pricing platform (React, Express, PostgreSQL) deployed with Docker and CI/CD.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PaperMC-FFFFFF?style=for-the-badge&logo=papermc&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+### Finance, Crypto & AI
 
----
+- **[Tenax Protocol](https://github.com/Tenax-Protocol/Tenax-Protocol)**: Fully on-chain forecasting network on Base, where forecasters are scored by skill (Brier score) and the token's value comes from scarcity. Solidity + Foundry. *In development.*
+- **[Quant-Trading-Engine](https://github.com/bryanmzauza/Quant-Trading-Engine)**: Backtesting engine with risk management, performance analytics and robustness testing (walk-forward and Monte Carlo).
+- **Alpherion** *(private)*: AI agent that monitors the crypto market (price, derivatives, on-chain data, sentiment) and publishes signals to Telegram, X and Discord.
+- **Alpherion Finance** *(private)*: Portfolio consolidation and risk analysis platform with AI-generated insights (Next.js + FastAPI).
+- **Chart analyzer** *(private)*: Technical analysis API with LLM-generated insights, deployed on AWS Lambda.
 
-### 📊 GitHub Stats
+### Engineering & Data
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryanmzauza&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanmzauza&theme=tokyonight&hide_border=true&layout=compact" height="160" alt="Top Langs" />
-</div>
+- **[hefa-process-simulation](https://github.com/bryanmzauza/hefa-process-simulation)**: Simulation of the HEFA route for Sustainable Aviation Fuel from macaúba oil, with reactor kinetics, sensitivity analysis and multi-objective optimization. Undergraduate thesis.
+- **[Q-Engineering-Hub](https://github.com/bryanmzauza/Q-Engineering-Hub)**: Chemical Engineering toolkit with calculators, reference formulas and a substance properties database.
+- **Industrial energy analytics** *(private)*: Data pipeline that extracts plant energy-consumption data from PI AF, cleans it and generates monthly PDF reports.
 
----
+## Tech Stack
 
-### 📌 Featured projects
+| Area            | Technologies                                                 |
+| --------------- | ------------------------------------------------------------ |
+| Languages       | Java, Python, TypeScript, JavaScript, Rust, Solidity         |
+| Backend         | Node.js, NestJS, Express, FastAPI                            |
+| Frontend        | Next.js, React, Tailwind CSS                                 |
+| Data            | PostgreSQL, TimescaleDB, MySQL, Redis, Prisma                |
+| Infrastructure  | Docker, GitHub Actions, AWS Lambda, Nginx                    |
+| Game Dev        | PaperMC, Spigot API, Fabric, Bevy                            |
+| Blockchain      | Foundry, OpenZeppelin, Uniswap v4                            |
+| Engineering     | Process simulation, numerical modeling, optimization         |
 
-| Project | Description |
-|---------|-------------|
-| [⚔️ Better-Clans](https://github.com/bryanmzauza/Better-Clans) | Clan plugin for Minecraft Paper focused on PvP, duels (/x1) and weekly Gladiator events (MVP in progress) |
-| [🗺️ Region-Master](https://github.com/bryanmzauza/Region-Master) | Land/region management plugin for Paper with granular flags, economy integration and marketplace |
-| [🛒 MarketHub](https://github.com/bryanmzauza/MarketHub) | Dynamic shop plugin inspired by Grand Exchange with supply-demand pricing for Java and Bedrock players |
-| [📈 Quant-Trading-Engine](https://github.com/bryanmzauza/Quant-Trading-Engine) | Quant backtesting engine with risk management, analytics and robustness tests (walk-forward + Monte Carlo) |
-| [⚗️ Q-Engineering-Hub](https://github.com/bryanmzauza/Q-Engineering-Hub) | Chemical Engineering toolkit with calculators, formulas and substance properties database |
-| [⛏️ craftsapiens-website](https://github.com/bryanmzauza/craftspiens-website) | Full web platform (Next.js + Prisma) for a gamified Minecraft educational ecosystem |
+## Experience
 
----
+- Minecraft plugin and mod development with Java (PaperMC, Fabric)
+- Game development in Rust with Bevy
+- Full-stack web applications and business systems with Node.js, NestJS and Next.js
+- AI agents and LLM integrations for market analysis
+- Quantitative finance, backtesting and smart contracts
+- Chemical Engineering: process simulation, industrial data and analytics
 
-### 🤝 Contact
+**Currently exploring:** Go.
 
-- GitHub: [@bryanmzauza](https://github.com/bryanmzauza)
+## Contact
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</p>
+GitHub: [@bryanmzauza](https://github.com/bryanmzauza)
